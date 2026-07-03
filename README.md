@@ -35,8 +35,8 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+ <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square" />
 </p>
 
 ### 🤖 IA Generativa
