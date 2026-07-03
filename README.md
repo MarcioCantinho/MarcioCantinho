@@ -11,14 +11,25 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
   
 ## 📝 Atualmente estudando
 
-### 📊 Análise de Dados
+### 🧠 Manipulação e Análise de Dados
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+### 📊 Visualização de Dados
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+</p>
+
+### 🗄️ Bancos de Dados
+<p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Estatística-4B8BBE?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### 🤖 IA Generativa
