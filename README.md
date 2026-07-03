@@ -19,6 +19,7 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white
 
 ## 📫 Contato
 
