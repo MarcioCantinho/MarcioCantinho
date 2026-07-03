@@ -4,11 +4,11 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
 
 ### 🎓
 
-- 💻 Analista de Dados em formação
-- 📰 Bacharel em Jornalismo
-- 📈 MBA em Economia
-- ⚜️ Bacharel em Letras – Português e Francês
-- 
+ 💻 Analista de Dados em formação
+ 📰 Bacharel em Jornalismo
+ 📈 MBA em Economia
+ ⚜️ Bacharel em Letras – Português e Francês
+  
 ## 📝 Atualmente estudando
 
 ### 📊 Análise de Dados
