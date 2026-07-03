@@ -11,8 +11,6 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
 - 
 ## 📊 Atualmente estudando
 
-## 🛠️ Tecnologias
-
 ### 📊 Análise de Dados
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
