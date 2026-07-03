@@ -2,9 +2,9 @@
 
 Sou jornalista em transição para a área de Análise de Dados.
 
-💻 Analista de Dados em formação  
+💻 Analista de Dados em formação
 📰 Jornalista
-🎓 MBA em Economia  
+🎓 MBA em Economia
 ⚜️ Bacharel em Letras Português e Francês
 
 ## 🛠️ Tecnologias e Ferramentas
