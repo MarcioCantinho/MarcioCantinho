@@ -1,7 +1,29 @@
-## Sobre mim
+# Olá! 👋
+
+Sou jornalista em transição para a área de Análise de Dados.
+
+💻 Analista de Dados em formação  
+📰 Jornalista
+🎓 MBA em Economia  
+⚜️ Bacharel em Letras Português e Francês
+
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
+<!-- badges -->
+
+## 📊 Atualmente estudando
+
+- Python para Análise de Dados
+- SQL
+- Power BI
+- Estatística
+- Machine Learning
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-cantinho/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcio.cantinho@gmail.com)
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -12,7 +34,6 @@
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
 ## 📚 Atualmente estudando
