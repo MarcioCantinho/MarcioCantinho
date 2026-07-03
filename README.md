@@ -2,7 +2,7 @@
 
 Sou jornalista em transição para a área de Análise de Dados, unindo comunicação, economia e análise de informações para transformar dados em insights.
 
-### 🎓 Formação
+### 🎓
 
 - 💻 Analista de Dados em formação
 - 📰 Bacharel em Jornalismo
