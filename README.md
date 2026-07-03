@@ -15,6 +15,7 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Estatística-4B8BBE?style=flat-square" />
 </p>
 
 ### 📊 Visualização de Dados
