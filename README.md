@@ -9,7 +9,7 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
 - 📈 MBA em Economia
 - ⚜️ Bacharel em Letras – Português e Francês
 - 
-## [📊](https://emojiterra.com/pt/livro-aberto/) Atualmente estudando
+## 📝 Atualmente estudando
 
 ### 📊 Análise de Dados
 <p>
