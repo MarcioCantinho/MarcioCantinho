@@ -25,6 +25,12 @@ Sou jornalista em transição para a área de Análise de Dados, unindo comunica
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 </p>
 
+### 📶 Business Intelligence (BI)
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
 ### 🗄️ Bancos de Dados
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
