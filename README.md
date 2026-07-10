@@ -1,6 +1,6 @@
 ## 👩‍💻 Sobre mim
 
-Sou jornalista em transição para a área de Análise de Dados, unindo comunicação, economia e análise de informações para transformar dados em insights.
+Sou jornalista e estudo para a área de Análise de Dados, unindo comunicação, economia e análise de informações para transformar dados em insights.
 
 ### 👨🏻‍🎓Formação
 
